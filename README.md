@@ -7,9 +7,6 @@ A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language
 
 ### Show some :heart: and star the repo.
 
-## [Video tutorial available here](https://youtu.be/94JmNb1IhX0)
-
-#### [Subscribe to Codepur](https://youtube.com/hellocodepur)
 
 ## Features
 
